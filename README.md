@@ -19,12 +19,20 @@ I'm currently building my skills in software testing, bug reporting and technica
 * Bug Report Examples
 * Help Desk Simulation
 
+## 🛠️ Tools & Technologies
+- Git & GitHub
+- Jira
+- SQL
+- Postman
+- Manual Testing
+- SDLC & STLC
+
 ## Goals
 
-* Start a career in QA or IT Support
+* Build a strong foundation in QA and IT Support
 * Build a strong portfolio
 * Continue improving my English and technical skills
 
-## 📫 Connect With Me
+## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/gabriella-rodrigues-dev/
