@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Gabriella 👋
 
-<!--
-**gabi-testing/gabi-testing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring QA & IT Support Professional
 
-Here are some ideas to get you started:
+I'm currently building my skills in software testing, bug reporting and technical support while creating projects for my portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+* Manual Testing
+* Bug Reporting
+* SDLC & STLC
+* Help Desk Fundamentals
+* Git & GitHub
+* SQL Basics
+
+## Featured Projects
+
+* QA Basics Portfolio
+* Bug Report Examples
+* Help Desk Simulation
+
+## Goals
+
+* Start a career in QA or IT Support
+* Build a strong portfolio
+* Continue improving my English and technical skills
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/gabriella-rodrigues-dev/
